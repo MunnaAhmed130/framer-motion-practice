@@ -28,7 +28,7 @@ const Box3 = () => {
   };
 
   return (
-    <div className="">
+    <div className="pb-10">
       <motion.div
         variants={boxVariant}
         initial="hidden"
