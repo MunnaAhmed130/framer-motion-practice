@@ -5,7 +5,7 @@ import Box3 from "./components/Box3";
 
 function App() {
   return (
-    <div className="p-10">
+    <div className="p-10 ">
       <Box1 />
       <Box2 />
       <Box3 />
