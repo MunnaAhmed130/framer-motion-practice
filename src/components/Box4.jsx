@@ -2,7 +2,7 @@ import { motion } from "framer-motion";
 
 const Box4 = () => {
   return (
-    <div>
+    <div className="pb-10">
       <motion.div
         className="box hover:cursor-pointer"
         animate={{
